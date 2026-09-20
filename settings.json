@@ -7,7 +7,6 @@
   },
   "server": {
     "ip": "huricainmc.play.hosting",
-    "port": 25608,
     "version": "1.21.11"
   },
   "position": {
